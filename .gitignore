@@ -1,0 +1,16 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+
+# logs
+*.log
+
+# Directories
+.terraform/
+
+# Ignore Mac .DS_Store files
+.DS_Store
+
+# Ignored vscode files
+.vscode/
